@@ -7,6 +7,7 @@ The purpose of the School District Analysis is to take another look at the readi
 * By replacing Thomas High School’s ninth graders’ reading and math scores, their performance wasn’t really affected in comparison to other schools. They still managed a 91% overall passing rate and be in the top five performing schools. 
 ![THS Performance](https://user-images.githubusercontent.com/100382595/162678496-7e026956-1f1b-4c89-82a7-fe0be3a71bdb.png)
 *	Replacing the ninth-grade scores does not really have an affect on the math and reading scores overall since their scores in grades 10th-12th were already high to begin with. 
+
 ![new math scores](https://user-images.githubusercontent.com/100382595/162678552-2aad9319-d4ef-4f47-a939-55407db720e9.png)
 *	In terms of school spending, the drops in overall scores negatively impacted the amount of money spent on each student due to the decrease in overall passing rate. 
 ![Student spending](https://user-images.githubusercontent.com/100382595/162678590-d5601e62-f71b-4055-9985-f1195c87d561.png)
